@@ -1,4 +1,4 @@
-# Data Science projects completed during studies at Yandex Praktikum.
+# Data Science projects completed during studies at Yandex Practicum.
 | Project name and permalink: | Description: | Steps: | Utilized libraries and tools: | Results: |
 | :- | :- | :- | :- | :- |
 | [Russian film distribution market research.](https://github.com/mrBrain101/Yandex_Praktikum_2023/blob/468ee601de11a75b10659e26f2ace5f5e8c5dcb1/Ya_Practicum_MK_movie_research_distr.ipynb) | Russian film distribution market research and trend analysis. | <ul><li>Data preprocessing. <li>Exploratory data analysis. <li>Market metrics and trends analysis. <li>Analysis of audience interest in films that received state support.</ul>| <ul><li>Pandas. <li>Matplotlib. <li>Seaborn. <li>Numpy. <li> Requests. <li> IO.</ul> | Presentation of analytical discoveries as a text report.
