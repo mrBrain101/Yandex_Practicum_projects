@@ -2,7 +2,7 @@
 A fit-forward Neural Net model was developed for star temperature prediction.<br>
 
 
-[Star temperature prediction permalink.]()
+[Star temperature prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/c435d6850f93d785c12ba6c51316332934db423b/ML_Star_Temp_Prediction)
 
 ## Steps:
 <li>EDA, data cleaning and preprocessing.
