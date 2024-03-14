@@ -6,7 +6,7 @@ A FAISS model was developed with the `IVF1600,Flat` inverse index and `accuracy@
 ## Steps:
 <li>EDA. 
 <li>Preprocessing. 
-<li>Matching/clustering algorithm development..
+<li>Matching/clustering algorithm development and testing.
   
 ## Utilized libraries and tools:
 <li>Scikit-Learn's KMeans and MiniBatchKMeans. 
