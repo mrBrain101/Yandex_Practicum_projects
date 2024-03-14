@@ -3,17 +3,23 @@ An MVP DecisionTreeClassifier model for the used car accident risk prediction fo
 Target metric - $F1$: 0.61 <br>
 
 
-[Car accident risk prediction permalink.]()
+[Car accident risk prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/bd39062cfd307f25483e54477275c4ec984a5fb4/ML_Car_Accident_Risk_Prediction/Ya_Practicum_Car_Accident_Risk_Prediction_RUS.ipynb)
 
 ## Steps:
 <li>Data cleaning and preprocessing.
-<li>Exploratory data analysis.
+<li>EDA with statistical analisys of car accidents factors.
+<li>Model validation and testing.
   
 ## Utilized libraries and tools:
-<li>Yandex.Maps API.
-<li>Geopy (remoteness calculation).
+<li>PyTorch.
+<li>CatBoost.
+<li>Scikit-Learn's pipelines, DecisionTreeClassifier, RandomForestClassifier.
+<li>SQLAlchemy.
 <li>Pandas.
+<li>PhiK.
+<li>Optuna.
+<li>Plotly.
 <li>Matplotlib.
 <li>Seaborn.
 <li>Numpy.
-<li>Requests.
+<li>OS.
