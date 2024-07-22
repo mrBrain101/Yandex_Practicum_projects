@@ -1,23 +1,17 @@
-# Saint Petersburg (Russia) realty market research.
-Analysis of the Saint Petersburg and Leningrad region real estate market.<br>
-Analysis was conducted with the aim of:
-<li>creating "portraits" of an advertisement and a real estate object;
-<li>finding parameters/metrics for the real estate market price prediction system, which will be used for fraud and anomaly detection.
+# Bank churn prediction.
+Bank customer churn binary classification and assessment of the imbalance correction methods.<br>
 
-
-[Analysis of the Saint Petersburg real estate market permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/e17dda0c27aa2941b3eab13a916a52012397ce47/EDA_Russian_Realty_Market/Ya_Practicum_SPB_realty_research_distr.ipynb)
-
-## [Interactive plots can be seen here.](https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/main/ML_Bank_Churn/Ya_Practikum_ML_Bank_Churn_RUS.ipynb)
+[Bank churn prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/37af55c987df54160e098d30ce14364cc1afd741/ML_Bank_Churn/Ya_Practikum_ML_Bank_Churn_RUS.ipynb)
 
 ## Steps:
 <li>Data cleaning and preprocessing.
 <li>Exploratory data analysis.
+<li>Assessment of the imbalance correction methods.
+<li>Classification model development and testing.
   
 ## Utilized libraries and tools:
-<li>Yandex.Maps API.
-<li>Geopy (remoteness calculation).
 <li>Pandas.
-<li>Matplotlib.
-<li>Seaborn.
 <li>Numpy.
+<li>Matplotlib, matplotlib_venn, Plotly, Cufflinks, Seaborn.
 <li>Requests.
+<li>Scikit-Learn.
