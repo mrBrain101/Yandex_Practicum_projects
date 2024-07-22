@@ -7,7 +7,7 @@ Analysis was conducted with the aim of:
 
 [Analysis of the Saint Petersburg real estate market permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/e17dda0c27aa2941b3eab13a916a52012397ce47/EDA_Russian_Realty_Market/Ya_Practicum_SPB_realty_research_distr.ipynb)
 
-## [Interactive plots can be seen here.](https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/main/ML_Bank_Churn/Ya_Practikum_ML_Bank_Churn_RUS.ipynb)
+[Interactive plots can be seen here.](https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/main/ML_Bank_Churn/Ya_Practikum_ML_Bank_Churn_RUS.ipynb)
 
 ## Steps:
 <li>Data cleaning and preprocessing.
