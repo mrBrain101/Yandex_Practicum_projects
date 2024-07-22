@@ -1,25 +1,23 @@
-# Telecom clients churn rate prediction.
-***REPLACEAn MVP DecisionTreeClassifier model for the used car accident risk prediction for the chosen route was developed. 
-Target metric - $F1$: 0.61 <br>
+# Telecom clients churn prediction.
+Telecom churn binary classification model development.<br>
 
+Since the project contains a large number of plots, GitHub won't be able to display it.
+Please view the project in NBViewer here: https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/main/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction.ipynb
 
-***REPLACEAcc[Car accident risk prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/bd39062cfd307f25483e54477275c4ec984a5fb4/ML_Car_Accident_Risk_Prediction/Ya_Practicum_Car_Accident_Risk_Prediction_RUS.ipynb)
+[Telecom churn prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/9a5b969e1f6c0d7be90549dc183315dd4b5c38e9/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction.ipynb)
 
-## ***REPLACEASteps:
-<li>Data cleaning and preprocessing.
-<li>EDA with statistical analisys of car accidents factors.
+## Steps:
+<li>Data loading, merging, cleaning and preprocessing.
+<li>In-depth EDA.
+<li>Feature generation and selection.
+<li>Data synthesis and it's evaluation.
 <li>Model validation and testing.
   
-## ***REPLACEAUtilized libraries and tools:
-<li>PyTorch.~~~~
-<li>CatBoost.
-<li>Scikit-Learn's pipelines, DecisionTreeClassifier, RandomForestClassifier.
-<li>SQLAlchemy.
-<li>Pandas.
-<li>PhiK.
-<li>Optuna.
-<li>Plotly.
-<li>Matplotlib.
-<li>Seaborn.
-<li>Numpy.
-<li>OS.
+## Utilized libraries and tools:
+<li>OS, Multiprocessing, SQLAlchemy, Psycopg2.
+<li>Pandas, Numpy.
+<li>Phik, Shap.
+<li>Matplotlib, Seaborn.
+<li>Scikit-Learn, CatBoost, Category Encoders.
+<li>ydata_synthetic.
+<li>Optuna, TQDM.
