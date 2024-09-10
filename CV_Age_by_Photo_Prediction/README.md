@@ -1,9 +1,9 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-# Поиск изображений по запросу. 
-Разработка демонстрационной версии поиска изображений по текстовому запросу.<br>
+# Определение возраста покупателей. 
+Построение модели, которая по фотографии с камеры в кассовой зоне определит приблизительный возраст человека.<br>
 
-[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/prompt_image_search_distr_RUS.ipynb)
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/408c01a5fbc909cd6242e32a788c9d313d3c4490/CV_Age_by_Photo_Prediction/Ya_Practicum_ML_Age_by_Photo_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Исследовательский анализ данных. 
@@ -11,14 +11,9 @@
 <li>Валидация и тестирование моделей.
   
 ## Библиотеки и инструменты:
-<li>PyTorch, TorchVision.
-<li>Scikit-Learn: LinearRegression, ElasticNet. 
-<li>CatBoostRegressor.
-<li>Spacy.
+<li>Tensorflow.
 <li>PIL.
-<li>Transformers.
 <li>Pandas. 
 <li>Matplotlib. 
 <li>Seaborn. 
 <li>Numpy. 
-<li>OS, Requests.
