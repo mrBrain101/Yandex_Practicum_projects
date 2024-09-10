@@ -3,10 +3,10 @@
 # Yandex Practicum: Data Scientist Plus Professional Training Course.
 
 ## Certificate
-![Certificate](Certificate_en/certificate_en_Page_1.jpg)
+![Certificate](z_Certificate_en/certificate_en_Page_1.jpg)
 
 ## Program
-![Program](Certificate_en/certificate_en_Page_2.jpg)
+![Program](z_Certificate_en/certificate_en_Page_2.jpg)
 
 ## Projects completed during the course
 | Link | Title | Description | Stack |
