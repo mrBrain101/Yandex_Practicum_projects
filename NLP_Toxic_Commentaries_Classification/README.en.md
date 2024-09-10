@@ -7,7 +7,7 @@ Development of a model for categorizing comments into positive and negative comm
 
 ## Steps:
 <li>EDA. 
-<li><ul>Preprocessing.
+<li>Preprocessing.<ul>
 <li>Text filtering and lemmatization</li>
 <li>Feature generation</li></ul>
 <li>Models validation ant testing.
