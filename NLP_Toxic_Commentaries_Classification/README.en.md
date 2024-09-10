@@ -2,8 +2,8 @@
 
 # Toxic comments classification. 
 Development of a model for categorizing comments into positive and negative comments<br>
-<u><b>Attention! This project includes profanity analisys.</b></u>
-[Project permalink.]()
+<u><b>Attention! This project includes profanity analisys.</b></u><br>
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/252b54e221a78f82e25ea3cd6ba972843142b394/NLP_Toxic_Commentaries_Classification/Ya_Practicum-NLP_Text_Toxicity_Prediction_distr_RUS.ipynb)
 
 ## Steps:
 <li>EDA. 
