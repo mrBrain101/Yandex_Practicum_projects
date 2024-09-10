@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 # Поиск изображений по запросу. 
 Разработка демонстрационной версии поиска изображений по текстовому запросу.<br>
