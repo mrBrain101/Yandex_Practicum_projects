@@ -1,7 +1,9 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/README.en.md)
+
 # Поиск изображений по запросу. 
 Разработка демонстрационной версии поиска изображений по текстовому запросу.<br>
 
-[Used cars price prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/ad7c667a295c13bda16e98a99174d9536e162b7a/ML_Car_Price_Prediction/Ya_Practicum_ML_Car_Price__CatBoost_Optuna_final.ipynb)
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/prompt_image_search_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Исследовательский анализ данных. 
