@@ -1,1 +1,0 @@
-# Data Science projects completed during studies at Yandex Practicum.
