@@ -1,4 +1,4 @@
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
 # Image search by text prompt. 
 MVP algorithm to search an image by text prompt.<br>
