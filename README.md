@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/https://github.com/mrBrain101/Yandex_Practicum_projects/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/mrBrain101/Yandex_Practicum_projects/README.en.md)
 
 # Yandex Практикум: Специалист по Data Science расширенный.
 
