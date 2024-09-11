@@ -3,7 +3,7 @@
 # Предсказание стоимости подержанных автомобилей. 
 Построение модели ML, определяющей цены на подержанные автомобили клиентов.<br>
 
-[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/prompt_image_search_distr_RUS.ipynb)
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/e861e7db0f28cdeb0dfb70aedfc31536b343f3e2/ML_Car_Price_Prediction/Ya_Practicum_ML_Car_Price__CatBoost_Optuna_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Исследовательский анализ данных. 

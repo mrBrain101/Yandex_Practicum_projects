@@ -1,14 +1,16 @@
-# Matching/clustering algorithm development. 
-A FAISS model was developed with the `IVF1600,Flat` inverse index and `accuracy@5` of $~70.8$.<br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-[Matching/clustering algorithm development permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/5d8315871d57483f075170081cff15100312ff6d/Matching/Ya_Practicum_ML_Workshop_Matching_final.ipynb)
+# Мэтчинг товаров. 
+Разработка алгоритма мэтчинга с метрикой $accuracy@5$.<br>
 
-## Steps:
-<li>EDA. 
-<li>Preprocessing. 
-<li>Matching/clustering algorithm development and testing.
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/e861e7db0f28cdeb0dfb70aedfc31536b343f3e2/ML_Matching/Ya_Practicum_ML_Workshop_Matching_distr_RUS.ipynb)
+
+## Краткое содержание:
+<li>Исследовательский анализ данных. 
+<li>Предобработка данных. 
+<li>Разработка и тестирование алгоритмов мэтчинга/кластеризации.
   
-## Utilized libraries and tools:
+## Библиотеки и инструменты:
 <li>Scikit-Learn's KMeans and MiniBatchKMeans. 
 <li>FB's FAISS. 
 <li>Spotify's ANNOY. 
