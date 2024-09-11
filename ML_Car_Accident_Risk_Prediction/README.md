@@ -1,17 +1,17 @@
-# Car accident risk prediction.
-An MVP DecisionTreeClassifier model for the used car accident risk prediction for the chosen route was developed. 
-Target metric - $F1$: 0.61 <br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
+# Прогнозирование оттока клиентов.
+Бинарная классификация оттока банковских клиентов и оценка методов коррекции дисбаланса классов.<br>
 
-[Car accident risk prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/bd39062cfd307f25483e54477275c4ec984a5fb4/ML_Car_Accident_Risk_Prediction/Ya_Practicum_Car_Accident_Risk_Prediction_RUS.ipynb)
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/2059ffb46c12031aa4650f4e825b9d8be88ff82e/ML_Car_Accident_Risk_Prediction/Ya_Practicum_ML_Car_Accident_Risk_Prediction_distr_RUS.ipynb)
 
-## Steps:
-<li>Data cleaning and preprocessing.
-<li>EDA with statistical analisys of car accidents factors.
-<li>Model validation and testing.
+## Краткое содержание:
+<li>Очистка и предварительная обработка данных.
+<li>Исследовательский анализ данных. 
+<li>Оценка методов коррекции дисбаланса классов. 
+<li>Валидация и тестирование моделей.
   
-## Utilized libraries and tools:
-<li>PyTorch.
+## Библиотеки и инструменты:
 <li>CatBoost.
 <li>Scikit-Learn's pipelines, DecisionTreeClassifier, RandomForestClassifier.
 <li>SQLAlchemy.

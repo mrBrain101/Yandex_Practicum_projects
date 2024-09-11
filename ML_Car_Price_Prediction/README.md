@@ -1,14 +1,16 @@
-# Used cars price prediction. 
-An `LGBMRegressor` model was developed with the target metric $RMSE$ of $1535,42$ Euro.<br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-[Used cars price prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/ad7c667a295c13bda16e98a99174d9536e162b7a/ML_Car_Price_Prediction/Ya_Practicum_ML_Car_Price__CatBoost_Optuna_final.ipynb)
+# Предсказание стоимости подержанных автомобилей. 
+Построение модели ML, определяющей цены на подержанные автомобили клиентов.<br>
 
-## Steps:
-<li>EDA. 
-<li>Preprocessing. 
-<li>Models validation ant testing.
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/prompt_image_search_distr_RUS.ipynb)
+
+## Краткое содержание:
+<li>Исследовательский анализ данных. 
+<li>Предобработка данных. 
+<li>Валидация и тестирование моделей.
   
-## Utilized libraries and tools:
+## Библиотеки и инструменты:
 <li>Scikit-Learn's LinearRegression, DecisionTreeRegressor, HistGradientBoostingRegressor. 
 <li>CatBoost.
 <li>LightGBM
