@@ -3,7 +3,7 @@
 # Image search by text prompt. 
 MVP algorithm to search an image by text prompt.<br>
 
-[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/054e196015631f9a11eca44a5cb660d7cfc179c1/ML_DL_Prompt_image_search/prompt_image_search_distr_RUS.ipynb)
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/8464bd0b4e419bac97d342b8dbf2d90646ce9f6a/CV_NLP_Prompt_image_matching/Ya_Practicum_CV_NLP_prompt_image_search_distr_RUS.ipynb)
 
 ## Steps:
 <li>EDA. 
