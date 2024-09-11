@@ -4,7 +4,7 @@
 Разработка метода преобразования данных (матричные преобразования), который защитит персональную информацию клиентов и не повлияет на результаты прогнозирования страховых выплат.<br>
 Проверить метод на модели линейной регрессии.<br>
 
-[Ссылка на проект.]()
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/6be1e35cec6f9fd6e24020cf43fdbf906d98911b/Math_Customer_Data_Protection/Ya_Practicum_Math_Customer_Data_Protection_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Изучение данных. 
