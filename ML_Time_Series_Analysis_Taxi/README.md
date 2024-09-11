@@ -3,7 +3,7 @@
 # Прогнозирование спроса (временные ряды). 
 Разработка модели для прогнозирования спроса на такси.<br>
 
-[Ссылка на проект.]()
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/de69bed0a9a25567597ec01b7cfa1973b2c52df7/ML_Time_Series_Analysis_Taxi/Ya_Practicum_ML_Time_Series_Taxi_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Исследовательский анализ временных рядов с авторегрессией, исследованием сезонности и трендов.
