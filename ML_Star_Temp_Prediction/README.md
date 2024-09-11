@@ -1,15 +1,17 @@
-# Star temperature prediction.
-A fit-forward Neural Net model was developed for star temperature prediction.<br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
+# Предсказание температуры звезд. 
+Разработка нейронной сети, которая поможет предсказывать абсолютную температуру на поверхности звезды.<br>
 
-[Star temperature prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/c435d6850f93d785c12ba6c51316332934db423b/ML_Star_Temp_Prediction)
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Star_Temp_Prediction/Ya_Practicum_ML_Star_Temp_Prediction_distr_RUS.ipynb)
 
-## Steps:
-<li>EDA, data cleaning and preprocessing.
-<li>Neural network architecture development, validation and testing.
+## Краткое содержание:
+<li>Исследовательский анализ данных. 
+<li>Очистка и предобработка данных. 
+<li>Разработка, проверка и тестирование архитектуры нейронных сетей.
   
-## Utilized libraries and tools:
-<li>PyTorch (custom class compatible with Scikit-Learn Pipeline).
+## Библиотеки и инструменты:
+<li>PyTorch (пользовательский класс, совместимый с Scikit-Learn Pipeline).
 <li>Scikit-Learn's pipelines.
 <li>Pandas.
 <li>PhiK.

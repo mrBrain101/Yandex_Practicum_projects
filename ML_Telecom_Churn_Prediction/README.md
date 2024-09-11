@@ -1,19 +1,20 @@
-# Telecom clients churn prediction.
-Telecom churn binary classification model development.<br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-Since the project contains a large number of plots, GitHub won't be able to display it.
-Please view the project in NBViewer here: https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/main/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction.ipynb
+# Прогнозирование оттока клиентов в телекоме.
+Бинарная классификация оттока клиентов в телекоме.<br>
 
-[Telecom churn prediction permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/9a5b969e1f6c0d7be90549dc183315dd4b5c38e9/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction.ipynb)
+Поскольку проект содержит большое количество графиков, GitHub не сможет его отобразить.
+Вы можете просмотреть проект в [NBViewer по этой ссылке]( https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction_distr_RUS.ipynb).<br>
 
-## Steps:
-<li>Data loading, merging, cleaning and preprocessing.
-<li>In-depth EDA.
-<li>Feature generation and selection.
-<li>Data synthesis and it's evaluation.
-<li>Model validation and testing.
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction_distr_RUS.ipynb)
+
+## Краткое содержание:
+<li>Загрузка, объединение, очистка и предварительная обработка данных.
+<li>Исследовательский анализ данных. 
+<li>Создание и отбор признаков. 
+<li>Валидация и тестирование моделей.
   
-## Utilized libraries and tools:
+## Библиотеки и инструменты:
 <li>OS, Multiprocessing, SQLAlchemy, Psycopg2.
 <li>Pandas, Numpy.
 <li>Phik, Shap.
