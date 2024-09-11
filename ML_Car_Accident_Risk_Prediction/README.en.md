@@ -3,7 +3,7 @@
 # Car accident risk prediction.
 Development of an MVP model for the used car accident risk prediction for the route, chosen by customer.<br>
 
-[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/2059ffb46c12031aa4650f4e825b9d8be88ff82e/ML_Car_Accident_Risk_Prediction/Ya_Practicum_ML_Car_Accident_Risk_Prediction_distr_RUS.ipynb)
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/bcd9b5dffb69b7d2fcfb145fd2873bc6488e5660/ML_Car_Accident_Risk_Prediction/Ya_Practicum_ML_Car_Accident_Risk_Prediction_distr_RUS.ipynb)
 
 ## Steps:
 <li>Data cleaning and preprocessing.
