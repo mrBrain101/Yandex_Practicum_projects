@@ -3,7 +3,7 @@
 # Realty price prediction. 
 Building an ML model that determines the prices of the real estate for the California 1990 housing dataset. All the data manipulation is done with Spark (PySpark).<br>
 
-[Project permalink.]()
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/84215eae9b2a40463224dc69158934a71c7380b0/ML_SPARK_Realty_Price_Prediction/Ya_Practicum_ML_SPARK_Realty_Price_Prediction_distr_RUS.ipynb)
 
 ## Steps:
 <li>Spark session initialization and packages loading.
