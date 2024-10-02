@@ -3,7 +3,7 @@
 # Предсказание стоимости жилья. 
 Построение ML-модели, определяющей цены на недвижимость для набора данных по жилью Калифорнии 1990 года. Все манипуляции с данными выполняются с помощью Spark (PySpark).<br>
 
-[Ссылка на проект.]()
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/84215eae9b2a40463224dc69158934a71c7380b0/ML_SPARK_Realty_Price_Prediction/Ya_Practicum_ML_SPARK_Realty_Price_Prediction_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Инициализация сессии Spark и загрузка пакетов.
