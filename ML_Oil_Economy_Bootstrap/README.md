@@ -4,7 +4,7 @@
 Разработка модели прогнозирования рентабельности размещения нефтяных скважин.<br>
 Оценка возможных прибылей и рисков с помощью метода бутстрепа.
 
-[Ссылка на проект.]()
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/234c5a72a8922f2d51e708f1afcc28c5cc439978/ML_Oil_Economy_Bootstrap/Ya_Practicum_ML_Oil_Economy_distr_RUS.ipynb)
 
 ## Краткое содержание:
 <li>Загрузка библиотек и данных.
