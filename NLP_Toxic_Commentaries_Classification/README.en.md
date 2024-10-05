@@ -1,15 +1,22 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
 # Toxic comments classification. 
-Development of a model for categorizing comments into positive and negative comments<br>
-<u><b>Attention! This project includes profanity analisys.</b></u><br>
+
+## Problem.
+Development of a model for categorizing comments into positive and negative comments.
+## Solution.
+A _toxic-bert_ comment toxicity assessment model was used to classify toxic comments and logistic regression was applied: _F1_= 0.93. 
+
+<u><b>Attention! This project includes profanity analysis.</b></u><br>
 [Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/252b54e221a78f82e25ea3cd6ba972843142b394/NLP_Toxic_Commentaries_Classification/Ya_Practicum-NLP_Text_Toxicity_Prediction_distr_RUS.ipynb)
 
 ## Steps:
 <li>EDA. 
-<li>Preprocessing.<ul>
+<li>Preprocessing.
+<ul>
 <li>Text filtering and lemmatization</li>
-<li>Feature generation</li></ul>
+<li>Feature generation</li>
+</ul>
 <li>Models validation ant testing.
   
 ## Utilized libraries and tools:

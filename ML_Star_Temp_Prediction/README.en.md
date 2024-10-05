@@ -1,7 +1,11 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
 # Star temperature prediction.
-Developing a neural network to help predict the absolute temperature on the surface of a star.<br>
+
+## Problem.
+Developing a neural network to help predict the absolute temperature on the surface of a star.
+## Solution.
+A fully-connected feed-forward neural network was developed to predict the absolute temperature at the surface of the star.
 
 [Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Star_Temp_Prediction/Ya_Practicum_ML_Star_Temp_Prediction_distr_RUS.ipynb)
 

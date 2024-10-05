@@ -1,14 +1,18 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 # Прогнозирование оттока клиентов в телекоме.
+
+## Проблема.
 Бинарная классификация оттока клиентов в телекоме.<br>
+## Решение.
+Для предсказания оттока клиентов, была построена модель, с _ROC AUC_ = 0.84, _accuracy_ - 0.77.
 
 Поскольку проект содержит большое количество графиков, GitHub не сможет его отобразить.
 Вы можете просмотреть проект в [NBViewer по этой ссылке]( https://nbviewer.org/github/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction_distr_RUS.ipynb).<br>
 
 [Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/faf87fda0586f77c4366af3ccdb27349053868a3/ML_Telecom_Churn_Prediction/Ya_Practicum_ML_Telecom_Churn_Prediction_distr_RUS.ipynb)
 
-## Краткое содержание:
+## Этапы:
 <li>Загрузка, объединение, очистка и предварительная обработка данных.
 <li>Исследовательский анализ данных. 
 <li>Создание и отбор признаков. 

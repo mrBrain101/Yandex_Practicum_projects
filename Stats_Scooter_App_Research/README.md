@@ -1,6 +1,8 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-# Прогнозирование оттока клиентов в телекоме.
+# Статистический анализ поведения клиентов приложения для самокатов.
+
+## Проблема.
 <li>Анализ параметров поездок клиентов сервиса аренды самокатов "GoFast".
 <li>Проверка следующих гипотез, которые могут помочь бизнесу вырасти:
 <ul>
@@ -14,10 +16,12 @@
 	<li>Оценка минимального количества промокодов, которые нужно разослать, чтобы вероятность непродления подписки 100 пользователями была ~5%.
 	<li>Оценка вероятности того, что при рассылке 1 млн. пуш-уведомлений, их откроют не более 399,5 тыс. пользователей.
 </ul>
+## Решение.
+Был проведён анализ поведения клиентов сервиса аренды самокатов.
 
 [Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/b8dce8576a8de4322dae58476910e766d831019a/Stats_Scooter_App_Research/Ya_Practicum_Stats_Scooter_App_Research_distr_RUS.ipynb)
 
-## Краткое содержание:
+## Этапы:
 <li>Загрузка и предварительная обработка данных.
 <li>Исследовательский анализ данных. 
 <li>Объединение данных.
@@ -29,11 +33,3 @@
 <li>Pandas, Numpy.
 <li>Matplotlib, Seaborn, Cufflinks.
 <li>Scipy, Math.
-
-## Steps:
-<li>Data loading and preprocessing.
-<li>EDA.
-<li>Data merging.
-<li>Revenue calculation.
-<li>Hypothesis testing.
-<li>Project summary.
