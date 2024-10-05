@@ -4,7 +4,7 @@
 Oil wells location profitability prediction model development.<br>
 Assessment of the possible profits and risks with the bootstrap method.<br>
 
-[Project permalink.]()
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/234c5a72a8922f2d51e708f1afcc28c5cc439978/ML_Oil_Economy_Bootstrap/Ya_Practicum_ML_Oil_Economy_distr_RUS.ipynb)
 
 ## Steps:
 <li>Packages and data loading.
