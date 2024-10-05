@@ -15,7 +15,7 @@
 	<li>Estimate the probability that if 1 million push notifications are sent out, they will be opened by no more than 399,500 users.
 </ul>
 
-[Project permalink.]()
+[Project permalink.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/b8dce8576a8de4322dae58476910e766d831019a/Stats_Scooter_App_Research/Ya_Practicum_Stats_Scooter_App_Research_distr_RUS.ipynb)
 
 ## Steps:
 <li>Data loading and preprocessing.
