@@ -1,5 +1,23 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  vertical-align: baseline;
+  border-radius: 9999px;
+  background-color: #333;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.95), 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.badge span {
+  display: inline-block;
+}
+
+
 
 # Yandex Практикум: Курс "Специалист по Data Science плюс".
 
