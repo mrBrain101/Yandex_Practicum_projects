@@ -1,6 +1,8 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-![NLP](https://img.shields.io/badge/NLP-blue.svg?style=for-the-badge)
+https://img.shields.io/badge/NLP-323ea8
+https://img.shields.io/badge/CV-367539
+https://img.shields.io/badge/ML-753636
 
 
 
@@ -9,7 +11,7 @@
 ## Описание проектов
 | Название (ссылка) | Описание | Стек |
 |:--|:--|:--|
-|[Определение возраста покупателей.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/CV_Age_by_Photo_Prediction)| Для определения возраста по фотографии была построена модель ResNet50 c инициализацией весов imagenet и заданной "головой".|Python.<br>Tensorflow.<br>PIL.<br>Pandas.<br>Matplotlib, Seaborn.<br>Numpy.|
+|https://img.shields.io/badge/CV-367539 [Определение возраста покупателей.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/CV_Age_by_Photo_Prediction)| Для определения возраста по фотографии была построена модель ResNet50 c инициализацией весов imagenet и заданной "головой".|Python.<br>Tensorflow.<br>PIL.<br>Pandas.<br>Matplotlib, Seaborn.<br>Numpy.|
 |[Поиск изображений по запросу.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/CV_NLP_Prompt_image_matching)| Для демонстрационной версии модели мэтчинга изображений и запроса была обучена MVP-модель, способная по векторному представлению изображения и векторному представлению текста, выдать число от 0 до 1 — показать, насколько текст и картинка подходят друг другу.| Python.<br>PyTorch, TorchVision. <br>Scikit-Learn: LinearRegression, ElasticNet. <br>CatBoostRegressor.<br>Spacy.<br>PIL.<br>Transformers.<br>Pandas. <br>Matplotlib, Seaborn. <br>Numpy. <br>OS, Requests.|
 |[Защита клиентских данных.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/Math_Customer_Data_Protection)| Была доказана эффективность алгоритма защиты данных с помощью умножение независимых признаков на обратимую матрицу.<br> Было доказано, теоретически и практически, что эффективность линейной регрессии при такой трансформации предикторов не снижается.|Python.<br>Scikit-Learn: LinearRegression.<br>Pandas. <br>Matplotlib. <br>Numpy.<br>Latex.|
 |[Прогнозирование оттока клиентов банка.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/ML_Bank_Churn)| Для прогнозирования оттока клиентов, была подобрана модель случайного леса, её гиперпараметры и оптимальный метод для борьбы с дисбалансом классов для максимизации метрики _F1_.|Python.<br>Pandas.<br>Numpy.<br>Matplotlib, matplotlib_venn, Plotly, Cufflinks, Seaborn.<br>Requests.<br>Scikit-Learn.|
