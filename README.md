@@ -1,11 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-![](https://img.shields.io/badge/NLP-323ea8)
-![](https://img.shields.io/badge/CV-367539)
-![](https://img.shields.io/badge/ML-753636)
-![](https://img.shields.io/badge/SQL-743675)
-![](https://img.shields.io/badge/BIG%20DATA-a3773c)
-
 
 
 # Yandex Практикум: Курс "Специалист по Data Science плюс".
