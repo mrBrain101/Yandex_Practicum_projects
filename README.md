@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
-[!(https://img.shields.io/badge/NLP-323ea8)]
+!(https://img.shields.io/badge/NLP-323ea8)
 https://img.shields.io/badge/CV-367539
 https://img.shields.io/badge/ML-753636
 
