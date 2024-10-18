@@ -3,7 +3,7 @@
 
 # Yandex Практикум: Курс "Специалист по Data Science плюс".
 
-## Описание исследований.
+## Описание исследовательских проектов.
 | # | Направление | Название (ссылка) | Описание | Стек |
 |:--|:--|:--|:--|:--|
 | 01 | ![](https://img.shields.io/badge/Research-175559) ![](https://img.shields.io/badge/ML-753636) |[Защита клиентских данных.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/Math_Customer_Data_Protection)| Была доказана эффективность алгоритма защиты данных с помощью умножения независимых признаков на обратимую матрицу.<br> Было доказано, теоретически и практически, что эффективность линейной регрессии при такой трансформации предикторов не снижается.|Python.<br>Scikit-Learn: LinearRegression.<br>Pandas. <br>Matplotlib. <br>Numpy.<br>Latex.|
