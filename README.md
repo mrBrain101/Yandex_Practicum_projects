@@ -4,7 +4,7 @@
 
 # Yandex Практикум: Курс "Специалист по Data Science плюс".
 
-## Описание проектов
+## Описание категорий проектов
 | # | Направление | Ссылка | Стек |
 |:--|:--|:--|:--|
 | 01 | ![](https://img.shields.io/badge/CV-367539) | [Проекты по компьютерному зрению](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/8ce14caa8df2cdd87a2314b16a170ac43e2e97a7/01_CV_Projects) | Python.<br>Tensorflow, PyTorch, TorchVision, PIL.<br>Matplotlib, Seaborn.<br>Pandas, Numpy.<br>OS, Requests.|
@@ -14,7 +14,7 @@
 
 
 ## Сертификат
-![Сертификат](z_Certificate_ru/certificate_ru_Page_1.jpg)
+![Сертификат](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/676efb47ab49810832463df87b1e461ebdf0c90c/z_Certificates/certificate_ru_Page_1.jpg)
 
 ## Программа
-![Программа](z_Certificate_ru/certificate_ru_Page_2.jpg)
+![Программа](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/676efb47ab49810832463df87b1e461ebdf0c90c/z_Certificates/certificate_ru_Page_2.jpg)
