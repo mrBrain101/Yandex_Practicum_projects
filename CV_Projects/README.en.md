@@ -2,7 +2,7 @@
 
 # Yandex Practicum: Data Scientist Plus Professional Training Course.
 
-## Computer Vision projects completed during the course
+## Computer Vision projects completed during the course.
 | # | Title (project link) | Description | Stack |
 |:--|:--|:--|:--|
 | 01 |[Customer age prediction by photo.](https://github.com/mrBrain101/Yandex_Practicum_projects/tree/677e8370dee0aadea6a333ea7df9ac2beb0f571f/CV_Age_by_Photo_Prediction)| ResNet50 model was built with initialization of imagenet weights and specified “head”. | Tensorflow.<br>PIL.<br>Pandas.<br>Matplotlib.<br>Seaborn.<br>Numpy.|

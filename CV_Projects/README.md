@@ -1,7 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 
-
 # Yandex Практикум: Курс "Специалист по Data Science плюс".
 
 ## Описание проектов по компьютерному зрению.
