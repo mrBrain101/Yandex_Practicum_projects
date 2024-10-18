@@ -10,7 +10,7 @@
 <li>оценено влияние различных факторов на успешность фильма;
 <li>оценена эффективность государственной поддержки киноиндустрии.
 
-[Ссылка на проект.]()
+[Ссылка на проект.](https://github.com/mrBrain101/Yandex_Practicum_projects/blob/9045587e6385411002522d97a2f8c578d708a438/Research_Projects/03_Research_MC_Movie_Market/Ya_Practicum_Research_MC_Movie_Market_distr.ipynb)
 
 ## Этапы:
 <li>Загрузка и предварительная обработка данных.
