@@ -23,3 +23,4 @@
 <li>Matplotlib, matplotlib_venn, Plotly, Cufflinks, Seaborn.
 <li>OS, Requests, Multiprocessing.
 <li>Scikit-Learn's HalvingGridSearchCV, DecisionTreeClassifier, RandomForestClassifier, HistGradientBoostingClassifier.
+<li>XGBoost.

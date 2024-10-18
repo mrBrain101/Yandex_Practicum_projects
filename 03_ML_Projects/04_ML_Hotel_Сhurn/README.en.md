@@ -23,3 +23,4 @@ The model should pay for itself in a year on a budget of $400 000$р.
 <li>Matplotlib, matplotlib_venn, Plotly, Cufflinks, Seaborn.
 <li>OS, Requests, Multiprocessing.
 <li>Scikit-Learn's HalvingGridSearchCV, DecisionTreeClassifier, RandomForestClassifier, HistGradientBoostingClassifier.
+<li>XGBoost.
